@@ -1,0 +1,14 @@
+# Archivos de compilación de Maven
+target/
+*.class
+
+# Archivos temporales y de configuración de NetBeans
+.nb-gradle/
+nbproject/private/
+build/
+.idea/
+*.iml
+*.nb-attr
+
+# Logs
+*.log
